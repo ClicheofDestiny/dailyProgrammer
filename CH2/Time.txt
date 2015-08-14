@@ -1,4 +1,0 @@
-Stop Watch: Start (s), Stop(S again), lap (l), 'e' to exit
-LAPTIME: 4.104
-Time: 5.494
-Stop Watch: Start (s), Stop(S again), lap (l), 'e' to exit
